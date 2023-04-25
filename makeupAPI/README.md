@@ -1,4 +1,4 @@
-#MakeupAKPI
+#MakeupAPI
 
 *click on the product image to view product details
 *use below navigation buttons to move to next page and previous page
